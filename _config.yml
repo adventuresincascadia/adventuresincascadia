@@ -6,7 +6,7 @@
 name: Laura and Dani
 
 # Short bio or description (displayed in the header)
-description: Updates on life and our adventures in Cascadia
+description: Updates on our life and adventures in Cascadia
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   # dribbble:
-  email:
+  # email:
   # facebook:
   # flickr:
   github: adventuresincascadia
@@ -47,7 +47,7 @@ google_analytics:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+# baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
