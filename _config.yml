@@ -79,6 +79,8 @@ exclude:
 prose:
   media: 'images'
   ignore:
+    - 404.md
+    - index.html
     - .gitignore
     - CNAME
     - LICENSE
