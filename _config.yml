@@ -77,7 +77,7 @@ exclude:
     - CNAME
 
 prose:
-  media: 'media
+  media: 'media'
   ignore:
     - index.md
     - about.md
