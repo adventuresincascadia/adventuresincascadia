@@ -77,12 +77,17 @@ exclude:
     - CNAME
 
 prose:
-  media: 'media'
+  media: 'images'
   ignore:
+    - .gitignore
+    - CNAME
+    - LICENSE
+    - README.md
+    - feed.xml
     - index.md
     - about.md
     - _config.yml
-    - /_layout
+    - /_layouts
     - /_includes
 
   metadata:
